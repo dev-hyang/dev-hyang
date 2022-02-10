@@ -30,6 +30,7 @@ TBD
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shinichiokada/2" alt="Recent Article 3">
 -->
 ## Pinned Repos
+TBD
 <!--
 [![FastAPI Web Starter](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=fastapi-web-starter&show_owner=true)](https://github.com/shinokada/fastapi-web-starter)
 
