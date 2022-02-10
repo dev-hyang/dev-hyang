@@ -1,4 +1,4 @@
-## Hi there 👋, this is HY
+## Hi there 👋, this is H.Yang (HY)
 
 <!--
 **dev-hyang/dev-hyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
